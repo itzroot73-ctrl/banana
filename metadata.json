@@ -1,0 +1,5 @@
+{
+  "name": "Banana Client",
+  "description": "A premium Minecraft client interface simulation with shop, cosmetics, and account management.",
+  "requestFramePermissions": []
+}
